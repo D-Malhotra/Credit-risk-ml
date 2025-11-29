@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/Users/deepak/Machine Learning/Credit-risk-ml/credit/bin/python3.11" "$0" "$@"
+'''exec' "/Users/deepak/Machine Learning/Credit-risk-ml/credit/bin/python" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
